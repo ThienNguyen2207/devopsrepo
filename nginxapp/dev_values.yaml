@@ -8,7 +8,7 @@ image:
   repository: dockerminhthien2207/nginximages
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "fe39318a4aae2684c5db94f9e6d97e6ce6d2622e"
+  tag: "eb4b8b06276a0df530e8cafb7edade5e77c88662"
 
 imagePullSecrets: []
 nameOverride: ""
