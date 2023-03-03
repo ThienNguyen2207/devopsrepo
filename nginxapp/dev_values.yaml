@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: dockerminhthien2207/nginximages
+  repository: dockerminhthien2207/nginximages:2fc32b3e7db4bb12ff0c5fec9bac704885d485ad
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
